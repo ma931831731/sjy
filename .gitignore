@@ -1,0 +1,18 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Temporary extracted files & artifacts
+scratch_docx/
+scratch_v14_dir/
+scratch_xlsx/
+word/
+parsed_*
+fields_summary*
+scratch_*
+sheet1_fields.json

@@ -1,0 +1,6 @@
+{
+  "name": "中台数据源监测系统",
+  "description": "基于MT控制台规范的中台数据源监测系统原型，提供全域数据源健康状态监控、心跳探测、实时吞吐与异常预警。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
